@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consultant: MyString
+  string: MyString
+  rails_developer: MyString
+  product_manager: MyString
+
+two:
+  consultant: MyString
+  string: MyString
+  rails_developer: MyString
+  product_manager: MyString
